@@ -1,0 +1,478 @@
+{
+    "ah": {
+        "tx_01": "ባንኮች በሰዓት ከአንድ ሳንቲም ጋር ሲነጻጸር",
+        "tx_02": "ባንኮች ምን ያህል በፍጥነት ሀብትን ከህብረተሰቡ እንደሚያወጡ።",
+        "tx_03": "24 ማርች 2026",
+        "tx_04": "TikTok ላይ ለመመልከት ሊንኩን ይጫኑ",
+        "tx_05": "የ Excel ውሂብን ያውርዱ"
+    },
+    "ar": {
+        "tx_01": "البنوك مقابل عملة واحدة في الساعة",
+        "tx_02": "مدى سرعة البنوك في استخراج الثروة من المجتمع.",
+        "tx_03": "24 مارس 2026",
+        "tx_04": "انقر للمشاهدة على TikTok",
+        "tx_05": "تنزيل بيانات Excel"
+    },
+    "am": {
+        "tx_01": "Բանկերը մեկ ժամում մեկ մետաղադրամի դիմաց",
+        "tx_02": "Որքան արագ են բանկերը հարստություն հանում հասարակությունից:",
+        "tx_03": "2026 թվականի մարտի 24",
+        "tx_04": "Սեղմեք TikTok-ում դիտելու համար",
+        "tx_05": "Ներբեռնեք Excel-ի տվյալները"
+    },
+    "az": {
+        "tx_01": "Banklar Saatda Bir Coin Versus",
+        "tx_02": "Banklar cəmiyyətdən sərvəti nə qədər sürətlə çıxarırlar.",
+        "tx_03": "24 mart 2026",
+        "tx_04": "TikTok-da izləmək üçün klikləyin",
+        "tx_05": "Excel Məlumatlarını endirin"
+    },
+    "by": {
+        "tx_01": "Банкі супраць адной манеты ў гадзіну",
+        "tx_02": "Як хутка банкі здабываюць багацце з грамадства.",
+        "tx_03": "24 сакавіка 2026 г.",
+        "tx_04": "Націсніце, каб паглядзець на TikTok",
+        "tx_05": "Спампуйце дадзеныя Excel"
+    },
+    "be": {
+        "tx_01": "ব্যাঙ্ক বনাম এক কয়েন প্রতি ঘন্টা",
+        "tx_02": "কত দ্রুত ব্যাঙ্কগুলি সমাজ থেকে সম্পদ আহরণ করে।",
+        "tx_03": "24 মার্চ 2026",
+        "tx_04": "TikTok এ দেখতে ক্লিক করুন",
+        "tx_05": "এক্সেল ডেটা ডাউনলোড করুন"
+    },
+    "bo": {
+        "tx_01": "Banke naspram jednog novčića na sat",
+        "tx_02": "Koliko brzo banke izvlače bogatstvo iz društva.",
+        "tx_03": "24. marta 2026.",
+        "tx_04": "Kliknite za gledanje na TikToku",
+        "tx_05": "Preuzmite Excel podatke"
+    },
+    "bg": {
+        "tx_01": "Банки срещу една монета на час",
+        "tx_02": "Колко бързо банките извличат богатство от обществото.",
+        "tx_03": "24 март 2026 г.",
+        "tx_04": "Щракнете, за да гледате в TikTok",
+        "tx_05": "Изтеглете Excel Data"
+    },
+    "ca": {
+        "tx_01": "銀行與每小時一枚硬幣",
+        "tx_02": "銀行從社會獲取財富的速度有多快。",
+        "tx_03": "2026 年 3 月 24 日",
+        "tx_04": "點擊在 TikTok 上觀看",
+        "tx_05": "下載 Excel 數據"
+    },
+    "ch": {
+        "tx_01": "银行与每小时一枚硬币",
+        "tx_02": "银行从社会获取财富的速度有多快。",
+        "tx_03": "2026 年 3 月 24 日",
+        "tx_04": "点击在 TikTok 上观看",
+        "tx_05": "下载 Excel 数据"
+    },
+    "cz": {
+        "tx_01": "Banky versus jedna mince za hodinu",
+        "tx_02": "Jak rychle banky získávají bohatství ze společnosti.",
+        "tx_03": "24. března 2026",
+        "tx_04": "Kliknutím přehrajete na TikTok",
+        "tx_05": "Stáhnout data aplikace Excel"
+    },
+    "se": {
+        "tx_01": "Банке у односу на један новчић на сат",
+        "tx_02": "Колико брзо банке извлаче богатство из друштва.",
+        "tx_03": "24. март 2026",
+        "tx_04": "Кликните да бисте гледали на ТикТок-у",
+        "tx_05": "Преузмите Екцел податке"
+    },
+    "da": {
+        "tx_01": "Banker versus én mønt i timen",
+        "tx_02": "Hvor hurtigt banker udvinder rigdom fra samfundet.",
+        "tx_03": "24. marts 2026",
+        "tx_04": "Klik for at se på TikTok",
+        "tx_05": "Download Excel-data"
+    },
+    "de": {
+        "tx_01": "Banken im Vergleich zu einer Münze pro Stunde",
+        "tx_02": "Wie schnell Banken der Gesellschaft Wohlstand entziehen.",
+        "tx_03": "24. März 2026",
+        "tx_04": "Klicken Sie hier, um es auf TikTok anzusehen.",
+        "tx_05": "Laden Sie Excel-Daten herunter"
+    },
+    "en": {
+        "tx_01": "Banks Versus One Coin Per Hour",
+        "tx_02": "How fast banks extract wealth from society.",
+        "tx_03": "24 March 2026",
+        "tx_04": "Click to watch on TikTok",
+        "tx_05": "Download Excel Data"
+    },
+    "es": {
+        "tx_01": "Bancos versus una moneda por hora",
+        "tx_02": "Qué tan rápido los bancos extraen riqueza de la sociedad.",
+        "tx_03": "24 de marzo de 2026",
+        "tx_04": "Haga clic para verlo en TikTok",
+        "tx_05": "Descargar datos de Excel"
+    },
+    "fp": {
+        "tx_01": "Mga Bangko Kumpara sa Isang Barya Bawat Oras",
+        "tx_02": "Gaano kabilis ang pagkuha ng mga bangko ng yaman mula sa lipunan.",
+        "tx_03": "24 Marso 2026",
+        "tx_04": "I-click para manood sa TikTok",
+        "tx_05": "I-download ang Excel Data"
+    },
+    "fr": {
+        "tx_01": "Les banques contre une pièce par heure",
+        "tx_02": "À quelle vitesse les banques extraient la richesse de la société.",
+        "tx_03": "24 mars 2026",
+        "tx_04": "Cliquez pour regarder sur TikTok",
+        "tx_05": "Téléchargez les données Excel"
+    },
+    "ir": {
+        "tx_01": "Bainc Versus Aon Bhonn In aghaidh na Uair",
+        "tx_02": "Cé chomh tapa agus a bhaineann bainc saibhreas as an tsochaí.",
+        "tx_03": "24 Márta 2026",
+        "tx_04": "Cliceáil chun féachaint ar TikTok",
+        "tx_05": "Íoslódáil Sonraí Excel"
+    },
+    "gr": {
+        "tx_01": "Τράπεζες έναντι ενός νομίσματος ανά ώρα",
+        "tx_02": "Πόσο γρήγορα οι τράπεζες αποσπούν πλούτο από την κοινωνία.",
+        "tx_03": "24 Μαρτίου 2026",
+        "tx_04": "Κάντε κλικ για παρακολούθηση στο TikTok",
+        "tx_05": "Λήψη δεδομένων Excel"
+    },
+    "ha": {
+        "tx_01": "Bankuna Da Tsabar Kuɗi ɗaya a cikin Sa'a",
+        "tx_02": "Yadda bankuna ke saurin fitar da dukiya daga al'umma.",
+        "tx_03": "24 Maris 2026",
+        "tx_04": "Danna don kallo akan TikTok",
+        "tx_05": "Zazzage bayanan Excel"
+    },
+    "he": {
+        "tx_01": "בנקים מול מטבע אחד לשעה",
+        "tx_02": "כמה מהר הבנקים מחלצים עושר מהחברה.",
+        "tx_03": "24 במרץ 2026",
+        "tx_04": "לחץ לצפייה ב-TikTok",
+        "tx_05": "הורד נתוני Excel"
+    },
+    "hi": {
+        "tx_01": "बैंक बनाम प्रति घंटा एक सिक्का",
+        "tx_02": "बैंक कितनी तेजी से समाज से धन निकालते हैं।",
+        "tx_03": "24 मार्च 2026",
+        "tx_04": "टिकटॉक पर देखने के लिए क्लिक करें",
+        "tx_05": "एक्सेल डेटा डाउनलोड करें"
+    },
+    "cr": {
+        "tx_01": "Banke protiv jednog novčića na sat",
+        "tx_02": "Koliko brzo banke izvlače bogatstvo iz društva.",
+        "tx_03": "24. ožujka 2026.",
+        "tx_04": "Kliknite za gledanje na TikToku",
+        "tx_05": "Preuzmite Excel podatke"
+    },
+    "ig": {
+        "tx_01": "Ụlọ akụ na otu mkpụrụ ego kwa elekere",
+        "tx_02": "Kedu ka ụlọ akụ si ewepụta akụ na ụba n'obodo.",
+        "tx_03": "24 Maachị 2026",
+        "tx_04": "Pịa ka ikiri na TikTok",
+        "tx_05": "Budata data Excel"
+    },
+    "in": {
+        "tx_01": "Bank Versus Satu Koin Per Jam",
+        "tx_02": "Seberapa cepat bank mengekstraksi kekayaan dari masyarakat.",
+        "tx_03": "24 Maret 2026",
+        "tx_04": "Klik untuk menonton di TikTok",
+        "tx_05": "Unduh Data Excel"
+    },
+    "ic": {
+        "tx_01": "Bankar á móti einum mynt á klukkustund",
+        "tx_02": "Hversu hratt bankar vinna auð úr samfélaginu.",
+        "tx_03": "24. mars 2026",
+        "tx_04": "Smelltu til að horfa á TikTok",
+        "tx_05": "Sæktu Excel gögn"
+    },
+    "it": {
+        "tx_01": "Banche contro una moneta all'ora",
+        "tx_02": "Quanto velocemente le banche estraggono ricchezza dalla società.",
+        "tx_03": "24 marzo 2026",
+        "tx_04": "Clicca per guardare su TikTok",
+        "tx_05": "Scarica dati Excel"
+    },
+    "ja": {
+        "tx_01": "銀行と 1 時間あたり 1 コイン",
+        "tx_02": "銀行が社会から富を搾り取る速度。",
+        "tx_03": "2026 年 3 月 24 日",
+        "tx_04": "クリックして TikTok で視聴",
+        "tx_05": "Excel データをダウンロード"
+    },
+    "ka": {
+        "tx_01": "Банктер сағатына бір тиынға қарсы",
+        "tx_02": "Банктер қоғамнан байлықты қаншалықты жылдам шығарады.",
+        "tx_03": "2026 жылғы 24 наурыз",
+        "tx_04": "TikTok сайтында көру үшін басыңыз",
+        "tx_05": "Excel деректерін жүктеп алыңыз"
+    },
+    "kh": {
+        "tx_01": "ធនាគារធៀបនឹងកាក់មួយក្នុងមួយម៉ោង",
+        "tx_02": "តើធនាគារទាញយកទ្រព្យសម្បត្តិពីសង្គមលឿនប៉ុណ្ណា។",
+        "tx_03": "24 មីនា 2026",
+        "tx_04": "ចុចមើលនៅលើ TikTok",
+        "tx_05": "Download Excel Data"
+    },
+    "ki": {
+        "tx_01": "Amabanki atandukanye nigiceri kimwe kumasaha",
+        "tx_02": "Uburyo banki yihuta ikura umutungo muri societe.",
+        "tx_03": "24 Werurwe 2026",
+        "tx_04": "Kanda kugirango urebe kuri TikTok",
+        "tx_05": "Kuramo amakuru ya Excel"
+    },
+    "sh": {
+        "tx_01": "Benki dhidi ya Sarafu Moja kwa Saa",
+        "tx_02": "Jinsi benki huchota utajiri kutoka kwa jamii kwa haraka.",
+        "tx_03": "24 Machi 2026",
+        "tx_04": "Bofya ili kutazama kwenye TikTok",
+        "tx_05": "Pakua Data ya Excel"
+    },
+    "co": {
+        "tx_01": "Benki dhidi ya Sarafu Moja kwa Saa",
+        "tx_02": "Jinsi benki huchota utajiri kutoka kwa jamii kwa haraka.",
+        "tx_03": "24 Machi 2026",
+        "tx_04": "Bofya ili kutazama kwenye TikTok",
+        "tx_05": "Pakua Data ya Excel"
+    },
+    "ko": {
+        "tx_01": "은행 대 시간당 코인 1개",
+        "tx_02": "은행이 사회에서 부를 추출하는 속도.",
+        "tx_03": "2026년 3월 24일",
+        "tx_04": "TikTok에서 시청하려면 클릭하세요.",
+        "tx_05": "Excel 데이터 다운로드"
+    },
+    "kg": {
+        "tx_01": "Банктар Саатына Бир Монетага каршы",
+        "tx_02": "Банктар коомдон байлыкты канчалык тез чыгарып алышат.",
+        "tx_03": "2026-жылдын 24-марты",
+        "tx_04": "TikTokто көрүү үчүн чыкылдатыңыз",
+        "tx_05": "Excel маалыматтарын жүктөп алыңыз"
+    },
+    "la": {
+        "tx_01": "ທະນາຄານທຽບກັບໜຶ່ງຫຼຽນຕໍ່ຊົ່ວໂມງ",
+        "tx_02": "ທະນາຄານດຶງຄວາມຮັ່ງມີອອກຈາກສັງຄົມໄດ້ໄວເທົ່າໃດ.",
+        "tx_03": "24 ມີນາ 2026",
+        "tx_04": "ກົດເບິ່ງໃນ TikTok",
+        "tx_05": "ດາວໂຫລດ Excel Data"
+    },
+    "lv": {
+        "tx_01": "Bankas pret vienu monētu stundā",
+        "tx_02": "Cik ātri bankas iegūst bagātību no sabiedrības.",
+        "tx_03": "2026. gada 24. marts",
+        "tx_04": "Noklikšķiniet, lai skatītos vietnē TikTok",
+        "tx_05": "Lejupielādējiet Excel datus"
+    },
+    "lt": {
+        "tx_01": "Bankai prieš vieną monetą per valandą",
+        "tx_02": "Kaip greitai bankai ištraukia turtus iš visuomenės.",
+        "tx_03": "2026 m. kovo 24 d.",
+        "tx_04": "Spustelėkite, jei norite žiūrėti „TikTok“",
+        "tx_05": "Atsisiųskite „Excel“ duomenis"
+    },
+    "hu": {
+        "tx_01": "Bankok versus egy érme óránként",
+        "tx_02": "Milyen gyorsan vonják ki a bankok a vagyont a társadalomból.",
+        "tx_03": "2026. március 24.",
+        "tx_04": "Kattintson ide a TikTokon való megtekintéshez",
+        "tx_05": "Töltse le az Excel adatokat"
+    },
+    "mg": {
+        "tx_01": "Banks Versus Vola Iray isan'ora",
+        "tx_02": "Haingan'ny banky maka harena avy amin'ny fiaraha-monina.",
+        "tx_03": "24 martsa 2026",
+        "tx_04": "Tsindrio raha hijery TikTok",
+        "tx_05": "Misintona Data Excel"
+    },
+    "ma": {
+        "tx_01": "बँका विरुद्ध एक नाणे प्रति तास [नाम] बँका समाजातून किती वेगाने संपत्ती काढतात.",
+        "tx_02": "24 मार्च 2026",
+        "tx_03": "TikTok वर पाहण्यासाठी क्लिक करा",
+        "tx_04": "Excel डेटा डाउनलोड करा",
+        "tx_05": "एक्सेल डेटा डाउनलोड करा"
+    },
+    "ml": {
+        "tx_01": "Bank Berbanding Satu Syiling Sejam",
+        "tx_02": "Seberapa pantas bank mengeluarkan kekayaan daripada masyarakat.",
+        "tx_03": "24 Mac 2026",
+        "tx_04": "Klik untuk menonton di TikTok",
+        "tx_05": "Muat turun Data Excel"
+    },
+    "mo": {
+        "tx_01": "Банкууд Цаг тутамд нэг зоостой харьцуулахад",
+        "tx_02": "Банкууд нийгмээс баялгийг хэр хурдан гаргаж авдаг.",
+        "tx_03": "2026 оны 3-р сарын 24",
+        "tx_04": "TikTok дээр үзэхийн тулд дарна уу",
+        "tx_05": "Excel өгөгдлийг татаж авах"
+    },
+    "bu": {
+        "tx_01": "ဘဏ်များနှင့် တစ်နာရီလျှင် အကြွေစေ့တစ်စေ့",
+        "tx_02": "ဘဏ်များသည် လူ့အဖွဲ့အစည်းမှ ချမ်းသာကြွယ်ဝမှုကို မည်မျှမြန်မြန်ဆန်ဆန် ထုတ်ယူနိုင်မည်နည်း။",
+        "tx_03": "24 မတ်လ 2026",
+        "tx_04": "TikTok",
+        "tx_05": "Excel Data ဒေါင်းလုဒ်လုပ်ရန် နှိပ်ပါ"
+    },
+    "ne": {
+        "tx_01": "Banken versus één munt per uur",
+        "tx_02": "Hoe snel banken rijkdom uit de samenleving halen.",
+        "tx_03": "24 maart 2026",
+        "tx_04": "Klik om te bekijken op TikTok",
+        "tx_05": "Download Excel-gegevens"
+    },
+    "np": {
+        "tx_01": "बैंकहरू बनाम एक सिक्का प्रति घण्टा",
+        "tx_02": "कति छिटो बैंकहरूले समाजबाट सम्पत्ति निकाल्छन्।",
+        "tx_03": "24 मार्च 2026",
+        "tx_04": "TikTok मा हेर्न क्लिक गर्नुहोस्",
+        "tx_05": "एक्सेल डाटा डाउनलोड गर्नुहोस्"
+    },
+    "no": {
+        "tx_01": "Banker versus én mynt per time",
+        "tx_02": "Hvor raskt banker henter ut rikdom fra samfunnet.",
+        "tx_03": "24. mars 2026",
+        "tx_04": "Klikk for å se på TikTok",
+        "tx_05": "Last ned Excel-data"
+    },
+    "or": {
+        "tx_01": "Baankota Sa’aatii tokkotti Saantima Tokko Waliin Walbira Qabuu",
+        "tx_02": "Baankonni qabeenya hawaasa keessaa saffisaan baasan.",
+        "tx_03": "24 Amajjii 2026",
+        "tx_04": "TikTok irratti ilaaluuf cuqaasaa",
+        "tx_05": "Download Excel Data"
+    },
+    "pa": {
+        "tx_01": "بانکونه په یوه ساعت کې د یوې سکې په مقابل کې",
+        "tx_02": "څومره چټک بانکونه له ټولنې څخه شتمني استخراجوي.",
+        "tx_03": "24 مارچ 2026",
+        "tx_04": "په TikTok کې د لیدلو لپاره کلیک وکړئ",
+        "tx_05": "د ایکسل ډیټا ډاونلوډ کړئ"
+    },
+    "pe": {
+        "tx_01": "بانک ها در مقابل یک سکه در ساعت",
+        "tx_02": "بانک ها با چه سرعتی ثروت را از جامعه استخراج می کنند.",
+        "tx_03": "24 مارس 2026",
+        "tx_04": "برای تماشا در TikTok کلیک کنید",
+        "tx_05": "دانلود داده اکسل"
+    },
+    "po": {
+        "tx_01": "Banki kontra jedna moneta na godzinę",
+        "tx_02": "Jak szybko banki wydobywają bogactwo ze społeczeństwa.",
+        "tx_03": "24 marca 2026",
+        "tx_04": "Kliknij, aby obejrzeć na TikTok",
+        "tx_05": "Pobierz dane Excel"
+    },
+    "pt": {
+        "tx_01": "Bancos versus uma moeda por hora",
+        "tx_02": "Com que rapidez os bancos extraem riqueza da sociedade.",
+        "tx_03": "24 de março de 2026",
+        "tx_04": "Clique para assistir no TikTok",
+        "tx_05": "Baixe dados do Excel"
+    },
+    "ro": {
+        "tx_01": "Bănci versus o monedă pe oră",
+        "tx_02": "Cât de repede băncile extrag bogăția din societate.",
+        "tx_03": "24 martie 2026",
+        "tx_04": "Faceți clic pentru a viziona pe TikTok",
+        "tx_05": "Descărcați datele Excel"
+    },
+    "ru": {
+        "tx_01": "Банки против одной монеты в час",
+        "tx_02": "Как быстро банки извлекают богатство из общества.",
+        "tx_03": "24 марта 2026 г.",
+        "tx_04": "Нажмите, чтобы посмотреть в TikTok",
+        "tx_05": "Загрузить данные Excel"
+    },
+    "zi": {
+        "tx_01": "Dibanka Kgatlhanong le Madi a Tshipi a le Lengwe ka Ura",
+        "tx_02": "Kafa dibanka di ntshang khumo ka bonako ka gone mo setšhabeng.",
+        "tx_03": "24 Mopitlwe 2026",
+        "tx_04": "Tobetsa go lebelela mo TikTok",
+        "tx_05": "Laisolola Tshedimosetso ya Excel"
+    },
+    "al": {
+        "tx_01": "Bankat kundrejt një monedhë në orë",
+        "tx_02": "Sa shpejt e nxjerrin bankat pasurinë nga shoqëria.",
+        "tx_03": "24 mars 2026",
+        "tx_04": "Kliko për të parë në TikTok",
+        "tx_05": "Shkarko të dhënat e Excel"
+    },
+    "sl": {
+        "tx_01": "Banke proti enemu kovancu na uro",
+        "tx_02": "Kako hitro banke črpajo bogastvo iz družbe.",
+        "tx_03": "24. marec 2026",
+        "tx_04": "Kliknite za ogled na TikTok",
+        "tx_05": "Prenesite Excelove podatke"
+    },
+    "sk": {
+        "tx_01": "Banky verzus jedna minca za hodinu",
+        "tx_02": "Ako rýchlo banky získavajú bohatstvo zo spoločnosti.",
+        "tx_03": "24. marec 2026",
+        "tx_04": "Kliknite a sledujte na TikTok",
+        "tx_05": "Stiahnite si údaje programu Excel"
+    },
+    "so": {
+        "tx_01": "Bangiyada iyo Hal qadaadiic saacadiiba",
+        "tx_02": "Sida ugu dhakhsaha badan baananyadu uga soo saaraan hantida bulshada.",
+        "tx_03": "24 March 2026",
+        "tx_04": "Guji si aad u daawato TikTok",
+        "tx_05": "Soo deji xogta Excel"
+    },
+    "fi": {
+        "tx_01": "Pankit vs. yksi kolikko tunnissa",
+        "tx_02": "Kuinka nopeasti pankit saavat vaurautta yhteiskunnasta.",
+        "tx_03": "24. maaliskuuta 2026",
+        "tx_04": "Napsauta katsoaksesi TikTokissa",
+        "tx_05": "Lataa Excel-tiedot"
+    },
+    "sw": {
+        "tx_01": "Banker kontra ett mynt per timme",
+        "tx_02": "Hur snabbt banker utvinner välstånd från samhället.",
+        "tx_03": "24 mars 2026",
+        "tx_04": "Klicka för att se på TikTok",
+        "tx_05": "Ladda ner Excel-data"
+    },
+    "ta": {
+        "tx_01": "வங்கிகள் மற்றும் ஒரு மணி நேரத்திற்கு ஒரு நாணயம்",
+        "tx_02": "வங்கிகள் சமூகத்தில் இருந்து செல்வத்தை எவ்வளவு வேகமாக பிரித்தெடுக்கின்றன.",
+        "tx_03": "24 மார்ச் 2026",
+        "tx_04": "TikTok இல் பார்க்க கிளிக் செய்யவும்",
+        "tx_05": "Excel டேட்டாவைப் பதிவிறக்கவும்"
+    },
+    "th": {
+        "tx_01": "ธนาคารกับหนึ่งเหรียญต่อชั่วโมง",
+        "tx_02": "ธนาคารดึงความมั่งคั่งออกจากสังคมได้เร็วแค่ไหน",
+        "tx_03": "24 มีนาคม 2569",
+        "tx_04": "คลิกเพื่อดูบน TikTok",
+        "tx_05": "ดาวน์โหลดข้อมูล Excel"
+    },
+    "vi": {
+        "tx_01": "Ngân hàng so với một xu mỗi giờ",
+        "tx_02": "Các ngân hàng rút của cải từ xã hội nhanh như thế nào.",
+        "tx_03": "24 tháng 3 năm 2026",
+        "tx_04": "Nhấp để xem trên TikTok",
+        "tx_05": "Tải xuống dữ liệu Excel"
+    },
+    "tu": {
+        "tx_01": "Bankalar Saat Başına Bir Paraya Karşı",
+        "tx_02": "Bankaların toplumdan zenginliği ne kadar hızlı elde ettiği.",
+        "tx_03": "24 Mart 2026",
+        "tx_04": "TikTok'ta izlemek için tıklayın",
+        "tx_05": "Excel Verilerini İndirin"
+    },
+    "ur": {
+        "tx_01": "بینک بمقابلہ ایک سکہ فی گھنٹہ",
+        "tx_02": "بینک معاشرے سے کتنی تیزی سے دولت نکالتے ہیں۔",
+        "tx_03": "24 مارچ 2026",
+        "tx_04": "TikTok پر دیکھنے کے لیے کلک کریں",
+        "tx_05": "ایکسل ڈیٹا ڈاؤن لوڈ کریں"
+    },
+    "yo": {
+        "tx_01": "Banks Versus One Owo Fun Wakati",
+        "tx_02": "Bawo ni awọn ile-ifowopamọ yara ṣe yọ ọrọ jade lati awujọ.",
+        "tx_03": "24 Oṣu Kẹta 2026",
+        "tx_04": "Tẹ lati wo lori TikTok",
+        "tx_05": "Ṣe igbasilẹ Data Excel"
+    }
+}

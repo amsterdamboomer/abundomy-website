@@ -1,0 +1,428 @@
+{
+    "ah": {
+        "tx_01": "ቋንቋ",
+        "tx_02": "ተርፎኖሚ",
+        "tx_03": "ሰርዝ",
+        "tx_04": "ቋንቋ አስገባ"
+    },
+    "ar": {
+        "tx_01": "اللغة",
+        "tx_02": "وفراقتصاد",
+        "tx_03": "إلغاء",
+        "tx_04": "أدخل اللغة"
+    },
+    "am": {
+        "tx_01": "Լեզուն",
+        "tx_02": "Արատնտես",
+        "tx_03": "Չեղարկել",
+        "tx_04": "Մուտքագրեք լեզուն"
+    },
+    "az": {
+        "tx_01": "Dil",
+        "tx_02": "Boliqtisad",
+        "tx_03": "Ləğv et",
+        "tx_04": "Dili daxil edin"
+    },
+    "by": {
+        "tx_01": "Мова",
+        "tx_02": "Дабраноміка",
+        "tx_03": "Адмена",
+        "tx_04": "Увядзіце мову"
+    },
+    "be": {
+        "tx_01": "ভাষা",
+        "tx_02": "প্রচুরনীতি",
+        "tx_03": "বাতিল",
+        "tx_04": "ভাষা লিখুন"
+    },
+    "bo": {
+        "tx_01": "Jezik",
+        "tx_02": "Izonomija",
+        "tx_03": "Otkaži",
+        "tx_04": "Unesite jezik"
+    },
+    "bg": {
+        "tx_01": "Език",
+        "tx_02": "Изономика",
+        "tx_03": "Отказ",
+        "tx_04": "Въведете език"
+    },
+    "ca": {
+        "tx_01": "語言",
+        "tx_02": "豐盛濟",
+        "tx_03": "取消",
+        "tx_04": "輸入語言"
+    },
+    "ch": {
+        "tx_01": "语言",
+        "tx_02": "丰盛济",
+        "tx_03": "取消",
+        "tx_04": "输入语言"
+    },
+    "cz": {
+        "tx_01": "Jazyk",
+        "tx_02": "Hojnomika",
+        "tx_03": "Zrušit",
+        "tx_04": "Zadejte jazyk"
+    },
+    "se": {
+        "tx_01": "Језик",
+        "tx_02": "КСИЗ_Б_КСИЗ",
+        "tx_03": "Откажи",
+        "tx_04": "Унесите језик"
+    },
+    "da": {
+        "tx_01": "Sprog",
+        "tx_02": "Overflomi",
+        "tx_03": "Annuller",
+        "tx_04": "Indtast sprog"
+    },
+    "de": {
+        "tx_01": "Sprache",
+        "tx_02": "Abundomie",
+        "tx_03": "Abbrechen",
+        "tx_04": "Sprache eingeben"
+    },
+    "en": {
+        "tx_01": "Language",
+        "tx_02": "Abundomy",
+        "tx_03": "Cancel",
+        "tx_04": "Enter Language"
+    },
+    "es": {
+        "tx_01": "Idioma",
+        "tx_02": "Abundomia",
+        "tx_03": "Cancelar",
+        "tx_04": "Ingresar idioma"
+    },
+    "fp": {
+        "tx_01": "Wika",
+        "tx_02": "Kasagonomiya",
+        "tx_03": "Kanselahin",
+        "tx_04": "Ipasok ang Wika"
+    },
+    "fr": {
+        "tx_01": "Langue",
+        "tx_02": "Abondomie",
+        "tx_03": "Annuler",
+        "tx_04": "Entrer la langue"
+    },
+    "gu": {
+        "tx_01": "ભાષા",
+        "tx_02": "અર્થવિપુલતા",
+        "tx_03": "રદ કરો",
+        "tx_04": "ભાષા દાખલ કરો"
+    },
+    "ir": {
+        "tx_01": "Teanga",
+        "tx_02": "Flúirseagar",
+        "tx_03": "Cealaigh",
+        "tx_04": "Iontráil Teanga"
+    },
+    "gr": {
+        "tx_01": "Γλώσσα",
+        "tx_02": "Αφθονομία",
+        "tx_03": "Ακύρωση",
+        "tx_04": "Εισαγάγετε τη γλώσσα"
+    },
+    "ha": {
+        "tx_01": "Harshe",
+        "tx_02": "Yalwan-Arziki",
+        "tx_03": "Soke",
+        "tx_04": "Shigar da Harshe"
+    },
+    "he": {
+        "tx_01": "שפה",
+        "tx_02": "שפעכלכלה",
+        "tx_03": "ביטול",
+        "tx_04": "הזן שפה"
+    },
+    "hi": {
+        "tx_01": "भाषा",
+        "tx_02": "प्रचुरवार्ता",
+        "tx_03": "रद्द करें",
+        "tx_04": "भाषा दर्ज करें"
+    },
+    "cr": {
+        "tx_01": "Jezik",
+        "tx_02": "Izonomija",
+        "tx_03": "Odustani",
+        "tx_04": "Unesite jezik"
+    },
+    "ig": {
+        "tx_01": "Asụsụ",
+        "tx_02": "Ụbanomiya",
+        "tx_03": "Kagbuo",
+        "tx_04": "Tinye asụsụ"
+    },
+    "in": {
+        "tx_01": "Bahasa",
+        "tx_02": "Limpahnomi",
+        "tx_03": "Batal",
+        "tx_04": "Masukkan Bahasa"
+    },
+    "ic": {
+        "tx_01": "Tungumál",
+        "tx_02": "Snægtarhag",
+        "tx_03": "Hætta við",
+        "tx_04": "Sláðu inn tungumál"
+    },
+    "it": {
+        "tx_01": "Lingua",
+        "tx_02": "Abbondomia",
+        "tx_03": "Annulla",
+        "tx_04": "Inserisci lingua"
+    },
+    "ja": {
+        "tx_01": "言語",
+        "tx_02": "豊経済",
+        "tx_03": "キャンセル",
+        "tx_04": "言語を入力"
+    },
+    "ka": {
+        "tx_01": "Тіл",
+        "tx_02": "Молноміка",
+        "tx_03": "Болдырмау",
+        "tx_04": "Тілді енгізіңіз"
+    },
+    "kh": {
+        "tx_01": "ភាសា",
+        "tx_02": "ផលសេដ្ឋ",
+        "tx_03": "បោះបង់",
+        "tx_04": "បញ្ចូលភាសា"
+    },
+    "ki": {
+        "tx_01": "Ururimi",
+        "tx_02": "Abundomy",
+        "tx_03": "Hagarika",
+        "tx_04": "Injira Ururimi"
+    },
+    "sh": {
+        "tx_01": "Lugha",
+        "tx_02": "Ukwachumi",
+        "tx_03": "Ghairi",
+        "tx_04": "Weka Lugha"
+    },
+    "co": {
+        "tx_01": "Lugha",
+        "tx_02": "Bimvwanomi",
+        "tx_03": "Ghairi",
+        "tx_04": "Weka Lugha"
+    },
+    "ko": {
+        "tx_01": "언어",
+        "tx_02": "풍경",
+        "tx_03": "취소",
+        "tx_04": "언어 입력"
+    },
+    "kg": {
+        "tx_01": "Тил",
+        "tx_02": "Кенномика",
+        "tx_03": "Жокко чыгаруу",
+        "tx_04": "Тилди киргизиңиз"
+    },
+    "la": {
+        "tx_01": "ພາສາ",
+        "tx_02": "ຮວມເສດຖະ",
+        "tx_03": "ຍົກເລີກ",
+        "tx_04": "ໃສ່ພາສາ"
+    },
+    "lv": {
+        "tx_01": "Valoda",
+        "tx_02": "Bagātnomika",
+        "tx_03": "Atcelt",
+        "tx_04": "Ievadiet valodu"
+    },
+    "lt": {
+        "tx_01": "Kalba",
+        "tx_02": "Gausonomika",
+        "tx_03": "Atšaukti",
+        "tx_04": "Įveskite kalbą"
+    },
+    "hu": {
+        "tx_01": "Nyelv",
+        "tx_02": "Bőséggazda",
+        "tx_03": "Mégse",
+        "tx_04": "Nyelv megadása"
+    },
+    "mg": {
+        "tx_01": "Fiteny",
+        "tx_02": "Hafarekarena",
+        "tx_03": "Foana",
+        "tx_04": "Ampidiro ny fiteny"
+    },
+    "ma": {
+        "tx_01": "भाषा",
+        "tx_02": "विपुलशास्त्र",
+        "tx_03": "रद्द करा",
+        "tx_04": "भाषा प्रविष्ट करा"
+    },
+    "ml": {
+        "tx_01": "Bahasa",
+        "tx_02": "Limpahnomi",
+        "tx_03": "Batal",
+        "tx_04": "Masukkan Bahasa"
+    },
+    "mo": {
+        "tx_01": "Хэл",
+        "tx_02": "Элбэгзасаг",
+        "tx_03": "Цуцлах",
+        "tx_04": "Хэл оруулна уу"
+    },
+    "bu": {
+        "tx_01": "ဘာသာစကား",
+        "tx_02": "ကြွယ်စီးပွား",
+        "tx_03": "Cancel",
+        "tx_04": "ဘာသာစကား ထည့်သွင်းပါ။"
+    },
+    "ne": {
+        "tx_01": "Taal",
+        "tx_02": "Abundomie",
+        "tx_03": "Annuleren",
+        "tx_04": "Taal invoeren"
+    },
+    "np": {
+        "tx_01": "भाषा",
+        "tx_02": "प्रचुरशास्त्र",
+        "tx_03": "रद्द गर्नुहोस्",
+        "tx_04": "भाषा प्रविष्ट गर्नुहोस्"
+    },
+    "no": {
+        "tx_01": "Språk",
+        "tx_02": "Overflomi",
+        "tx_03": "Avbryt",
+        "tx_04": "Angi språk"
+    },
+    "or": {
+        "tx_01": "Afaan",
+        "tx_02": "Badhaadagdee",
+        "tx_03": "Haquu",
+        "tx_04": "Afaan Galchi"
+    },
+    "pa": {
+        "tx_01": "ژبه",
+        "tx_02": "پریمانیساد",
+        "tx_03": "لغوه کړئ",
+        "tx_04": "ژبه داخل کړئ"
+    },
+    "pe": {
+        "tx_01": "زبان",
+        "tx_02": "فراوانید",
+        "tx_03": "لغو",
+        "tx_04": "زبان را وارد کنید"
+    },
+    "po": {
+        "tx_01": "Język",
+        "tx_02": "Obfitonomia",
+        "tx_03": "Anuluj",
+        "tx_04": "Wprowadź język"
+    },
+    "ps": {
+        "tx_01": "بولی",
+        "tx_02": "اِقتصادیَت",
+        "tx_03": "منسوخ کرو",
+        "tx_04": "بولی لکھو"
+    },
+    "pt": {
+        "tx_01": "Idioma",
+        "tx_02": "Abundomia",
+        "tx_03": "Cancelar",
+        "tx_04": "Insira o idioma"
+    },
+    "pu": {
+        "tx_01": "ਭਾਸ਼ਾ",
+        "tx_02": "ਆਰਥਿਕ-ਭਰਪੂਰਤਾ",
+        "tx_03": "ਰੱਦ ਕਰੋ",
+        "tx_04": "ਭਾਸ਼ਾ ਦਰਜ ਕਰੋ"
+    },
+    "ro": {
+        "tx_01": "Limba",
+        "tx_02": "Abundonomia",
+        "tx_03": "Anulează",
+        "tx_04": "Introduceți limba"
+    },
+    "ru": {
+        "tx_01": "Язык",
+        "tx_02": "Изобиломика",
+        "tx_03": "Отмена",
+        "tx_04": "Введите язык"
+    },
+    "zi": {
+        "tx_01": "Puo",
+        "tx_02": "Letlotlonomi",
+        "tx_03": "Khansela",
+        "tx_04": "Tsenya Puo"
+    },
+    "al": {
+        "tx_01": "Gjuha",
+        "tx_02": "Bollëkonomi",
+        "tx_03": "Anulo",
+        "tx_04": "Fut gjuhën"
+    },
+    "sl": {
+        "tx_01": "Jezik",
+        "tx_02": "Izonomija",
+        "tx_03": "Prekliči",
+        "tx_04": "Vnesite jezik"
+    },
+    "sk": {
+        "tx_01": "Jazyk",
+        "tx_02": "Hojnomika",
+        "tx_03": "Zrušiť",
+        "tx_04": "Zadajte jazyk"
+    },
+    "so": {
+        "tx_01": "Luqadda",
+        "tx_02": "Barwaaqalaha",
+        "tx_03": "Jooji",
+        "tx_04": "Geli Luuqadda"
+    },
+    "fi": {
+        "tx_01": "Kieli",
+        "tx_02": "Runstalous",
+        "tx_03": "Peruuta",
+        "tx_04": "Anna kieli"
+    },
+    "sw": {
+        "tx_01": "Språk",
+        "tx_02": "Överflomi",
+        "tx_03": "Avbryt",
+        "tx_04": "Ange språk"
+    },
+    "ta": {
+        "tx_01": "மொழி",
+        "tx_02": "வளத்தரம்",
+        "tx_03": "ரத்துசெய்",
+        "tx_04": "மொழியை உள்ளிடவும்"
+    },
+    "th": {
+        "tx_01": "ภาษา",
+        "tx_02": "มั่งเศรษฐា",
+        "tx_03": "ยกเลิก",
+        "tx_04": "ป้อนภาษา"
+    },
+    "vi": {
+        "tx_01": "Ngôn ngữ",
+        "tx_02": "Doi-kinhte",
+        "tx_03": "Hủy",
+        "tx_04": "Nhập ngôn ngữ"
+    },
+    "tu": {
+        "tx_01": "Dil",
+        "tx_02": "Bolnomi",
+        "tx_03": "İptal Et",
+        "tx_04": "Dili Gir"
+    },
+    "ur": {
+        "tx_01": "زبان",
+        "tx_02": "فرامائیش",
+        "tx_03": "منسوخ کریں",
+        "tx_04": "زبان درج کریں"
+    },
+    "yo": {
+        "tx_01": "Ede",
+        "tx_02": "Ọpọlowo",
+        "tx_03": "Fagilee",
+        "tx_04": "Tẹ Ede sii"
+    }
+}

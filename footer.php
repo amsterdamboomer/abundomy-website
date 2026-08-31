@@ -1,0 +1,86 @@
+<script>
+    // Hardcoded translations for the "Back to Top" button
+    const topBtnTranslations = {
+                'ah': 'ወደ ላይ ተመለስ',
+                'ar': 'العودة إلى الأعلى',
+                'am': 'Վերադառնալ መጀመሪያ',
+                'az': 'Yuxarı qayıt',
+                'by': 'Вярнуцца да пачатку',
+                'be': 'উপরে ফিরে যান',
+                'bo': 'Nazad na vrh',
+                'bg': 'Върни се в началото',
+                'ca': '回到頂部',
+                'ch': '回到顶部',
+                'cz': 'Zpět nahoru',
+                'se': 'Nazad na vrh',
+                'da': 'Tilbage til toppen',
+                'de': 'Zurück nach oben',
+                'en': 'BACK TO TOP',
+                'es': 'Volver arriba',
+                'fp': 'Bumalik sa itaas',
+                'fr': 'Retour en haut',
+                'ir': 'Ar ais go barr',
+                'gr': 'Επιστροφή στην κορυφή',
+                'gu': 'ટોચ પર પાછા જાઓ',
+                'ha': 'Koma sama',
+                'he': 'חזרה למעלה',
+                'hi': 'ऊपर वापस जाएं',
+                'cr': 'Povratak na vrh',
+                'ig': 'Laghachi n’elu',
+                'in': 'Kembali ke atas',
+                'ic': 'Efst á síðu',
+                'it': 'Torna su',
+                'ja': 'トップに戻る',
+                'ka': 'Жоғарғы жағына',
+                'kh': 'ត្រឡប់ទៅខាងលើ',
+                'ki': 'Subira hejuru',
+                'sh': 'Rudi juu',
+                'co': 'Vutuka na zulu',
+                'ko': '맨 위로',
+                'kg': 'Кеңешке кайтуу',
+                'la': 'ກັບຄືນໄປເທິງสุด',
+                'lv': 'Atpakaļ uz augšu',
+                'lt': 'Atgal į viršų',
+                'hu': 'Vissza a tetejére',
+                'mg': 'Hiverina any ambony',
+                'ma': 'वर जा',
+                'ml': 'Kembali ke atas',
+                'mo': 'Дээшээ буцах',
+                'bu': 'အပေါ်သို့ပြန်သွားရန်',
+                'ne': 'Terug naar boven',
+                'np': 'माथि जानुहोस्',
+                'no': 'Tilbake til toppen',
+                'or': 'Gara oliitti deebi’i',
+                'pa': 'بېرته سر ته',
+                'pe': 'بازگشت به بالا',
+                'po': 'Wróć na górę',
+                'ps': 'ਉੱਤੇ ਵਾਪਸ જાઓ',
+                'pt': 'Voltar ao topo',
+                'pu': 'ਵਾਪਸ ਉੱਪਰ ਜਾਓ',
+                'ro': 'Înapoi sus',
+                'ru': 'Вернуться наверх',
+                'zi': 'Boela ko godimo',
+                'al': 'Kthehu në fillim',
+                'sl': 'Nazad na vrh',
+                'sk': 'Späť nahoru',
+                'so': 'Ku laabo xagga sare',
+                'fi': 'Takaisin ylös',
+                'sw': 'Tillbaka till toppen',
+                'ta': 'மேலே செல்க',
+                'th': 'กลับไปด้านบน',
+                'vi': 'Quay lại đầu trang',
+                'tu': 'Başa dön',
+                'ur': 'واپس اوپر جائیں',
+                'yo': 'Pada si oke'
+            };
+    document.addEventListener("DOMContentLoaded", function() {
+        // Use PHP to get the lang, with a fallback to 'en'
+        const lang = "<?php echo $currentLang ?? 'en'; ?>";
+        const btn = document.getElementById('totop');
+        
+        // Only run if the button actually exists on the current page
+        if (btn && topBtnTranslations[lang]) {
+            btn.innerHTML = topBtnTranslations[lang];
+        }
+    });
+</script>

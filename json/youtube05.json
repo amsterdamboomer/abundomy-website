@@ -1,0 +1,428 @@
+{
+    "ah": {
+        "tx_01": "ራዕይ",
+        "tx_02": "ወደ ተርፎኖሚ የሚደረገው ሽግግር ራዕይ።",
+        "tx_03": "የካቲት 21 ቀን 2026",
+        "tx_04": "በዩቲዩብ ለመመልከት ጠቅ ያድርጉ"
+    },
+    "ar": {
+        "tx_01": "الرؤية",
+        "tx_02": "رؤية الانتقال إلى وفراقتصاد.",
+        "tx_03": "21 فبراير 2026",
+        "tx_04": "اضغط للمشاهدة على اليوتيوب"
+    },
+    "am": {
+        "tx_01": "Տեսիլք",
+        "tx_02": "Արատնտես-ին անցման տեսլականը:",
+        "tx_03": "2026 թվականի փետրվարի 21",
+        "tx_04": "Սեղմեք YouTube-ում դիտելու համար"
+    },
+    "az": {
+        "tx_01": "Vizyon",
+        "tx_02": "Boliqtisad-ə keçidin görünüşü.",
+        "tx_03": "21 fevral 2026",
+        "tx_04": "YouTube-da baxmaq üçün klikləyin"
+    },
+    "by": {
+        "tx_01": "Бачанне",
+        "tx_02": "Бачанне пераходу да Дабраноміка.",
+        "tx_03": "21 лютага 2026 г.",
+        "tx_04": "Націсніце, каб паглядзець на YouTube"
+    },
+    "be": {
+        "tx_01": "দৃষ্টি",
+        "tx_02": "প্রচুরনীতি-এ রূপান্তরের দৃষ্টি।",
+        "tx_03": "21 ফেব্রুয়ারী 2026",
+        "tx_04": "YouTube-এ দেখতে ক্লিক করুন"
+    },
+    "bo": {
+        "tx_01": "Vizija",
+        "tx_02": "Vizija prijelaza na Izonomija.",
+        "tx_03": "21. februar 2026.",
+        "tx_04": "Kliknite za gledanje na YouTubeu"
+    },
+    "bg": {
+        "tx_01": "Визия",
+        "tx_02": "Визия на прехода към Изономика.",
+        "tx_03": "21 февруари 2026 г.",
+        "tx_04": "Кликнете, за да гледате в YouTube"
+    },
+    "ca": {
+        "tx_01": "愿景",
+        "tx_02": "过渡到 豐盛濟 的愿景。",
+        "tx_03": "2026 年 2 月 21 日",
+        "tx_04": "點擊在 YouTube 上觀看"
+    },
+    "ch": {
+        "tx_01": "愿景",
+        "tx_02": "过渡到 丰盛济 的愿景。",
+        "tx_03": "2026 年 2 月 21 日",
+        "tx_04": "点击在 YouTube 上观看"
+    },
+    "cz": {
+        "tx_01": "Vize",
+        "tx_02": "Vize přechodu do Hojnomika.",
+        "tx_03": "21. února 2026",
+        "tx_04": "Kliknutím přehrajete na YouTube"
+    },
+    "se": {
+        "tx_01": "Висион",
+        "tx_02": "Визија преласка на КСИЗ_Б_КСИЗ.",
+        "tx_03": "21. фебруар 2026",
+        "tx_04": "Кликните да бисте гледали на ИоуТубе-у"
+    },
+    "da": {
+        "tx_01": "Vision",
+        "tx_02": "Vision af overgangen til Overflomi.",
+        "tx_03": "21. februar 2026",
+        "tx_04": "Klik for at se på YouTube"
+    },
+    "de": {
+        "tx_01": "Vision",
+        "tx_02": "Vision des Übergangs zum Abundomie.",
+        "tx_03": "21. Februar 2026",
+        "tx_04": "Klicken Sie hier, um es auf YouTube anzusehen"
+    },
+    "en": {
+        "tx_01": "Vision",
+        "tx_02": "Vision of the transition to the Abundomy.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Click to watch on YouTube"
+    },
+    "es": {
+        "tx_01": "Visión",
+        "tx_02": "Visión de la transición al Abundomia.",
+        "tx_03": "21 de febrero de 2026",
+        "tx_04": "Haga clic para verlo en YouTube"
+    },
+    "fp": {
+        "tx_01": "Vision",
+        "tx_02": "Vision ng transition sa Kasagonomiya.",
+        "tx_03": "21 Peb 2026",
+        "tx_04": "I-click para manood sa YouTube"
+    },
+    "fr": {
+        "tx_01": "Vision",
+        "tx_02": "Vision de la transition vers le Abondomie.",
+        "tx_03": "21 février 2026",
+        "tx_04": "Cliquez pour regarder sur YouTube"
+    },
+    "gu": {
+        "tx_01": "વિઝન",
+        "tx_02": "અર્થવિપુલતા તરફના પરિવર્તનનું વિઝન.",
+        "tx_03": "૨૧ ફેબ્રુઆરી ૨૦૨૬",
+        "tx_04": "યૂટ્યૂબ પર જોવા માટે ક્લિક કરો"
+    },
+    "ir": {
+        "tx_01": "Fís",
+        "tx_02": "Fís den trasdul chuig an Flúirseagar.",
+        "tx_03": "21 Feabhra 2026",
+        "tx_04": "Cliceáil chun féachaint ar YouTube"
+    },
+    "gr": {
+        "tx_01": "Όραμα",
+        "tx_02": "Όραμα της μετάβασης στο Αφθονομία.",
+        "tx_03": "21 Φεβρουαρίου 2026",
+        "tx_04": "Κάντε κλικ για παρακολούθηση στο YouTube"
+    },
+    "ha": {
+        "tx_01": "Hangen nesa",
+        "tx_02": "na canzawa zuwa Yalwan-Arziki.",
+        "tx_03": "21 ga Fabrairu 2026",
+        "tx_04": "Danna don kallo akan YouTube"
+    },
+    "he": {
+        "tx_01": "חזון",
+        "tx_02": "ראיית המעבר ל-שפעכלכלה.",
+        "tx_03": "21 בפברואר 2026",
+        "tx_04": "לחץ לצפייה ב-YouTube"
+    },
+    "hi": {
+        "tx_01": "दृष्टि",
+        "tx_02": "प्रचुरवार्ता में संक्रमण की दृष्टि।",
+        "tx_03": "21 फरवरी 2026",
+        "tx_04": "यूट्यूब पर देखने के लिए क्लिक करें"
+    },
+    "cr": {
+        "tx_01": "Vizija",
+        "tx_02": "Vizija prijelaza na Izonomija.",
+        "tx_03": "21. veljače 2026.",
+        "tx_04": "Kliknite za gledanje na YouTubeu"
+    },
+    "ig": {
+        "tx_01": "Ọhụụ",
+        "tx_02": "Ọhụụ nke mgbanwe gaa na Ụbanomiya.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Pịa ka ikiri na YouTube"
+    },
+    "in": {
+        "tx_01": "Visi",
+        "tx_02": "Visi transisi ke Limpahnomi.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Klik untuk menonton di YouTube"
+    },
+    "ic": {
+        "tx_01": "Sýn",
+        "tx_02": "Sýn um umskiptin yfir í Snægtarhag.",
+        "tx_03": "21. febrúar 2026",
+        "tx_04": "Smelltu til að horfa á YouTube"
+    },
+    "it": {
+        "tx_01": "Visione",
+        "tx_02": "Visione del passaggio a Abbondomia.",
+        "tx_03": "21 febbraio 2026",
+        "tx_04": "Fai clic per guardare su YouTube"
+    },
+    "ja": {
+        "tx_01": "ビジョン",
+        "tx_02": "豊経済 への移行のビジョン。",
+        "tx_03": "2026 年 2 月 21 日",
+        "tx_04": "クリックして YouTube でご覧ください"
+    },
+    "ka": {
+        "tx_01": "Көрініс",
+        "tx_02": "Молноміка көшу көрінісі.",
+        "tx_03": "21 ақпан 2026",
+        "tx_04": "YouTube сайтында көру үшін басыңыз"
+    },
+    "kh": {
+        "tx_01": "ចក្ខុវិស័យ",
+        "tx_02": "ចក្ខុវិស័យនៃការផ្លាស់ប្តូរទៅ ផលសេដ្ឋ ។",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "ចុចមើលលើ YouTube"
+    },
+    "ki": {
+        "tx_01": "Icyerekezo",
+        "tx_02": "Icyerekezo cyinzibacyuho kuri Abundomy.",
+        "tx_03": "21 Gashyantare 2026",
+        "tx_04": "Kanda kugirango urebe kuri YouTube"
+    },
+    "sh": {
+        "tx_01": "Maono",
+        "tx_02": "Maono ya mpito hadi Ukwachumi.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Bofya ili kutazama kwenye YouTube"
+    },
+    "co": {
+        "tx_01": "Maono",
+        "tx_02": "Maono ya mpito hadi Bimvwanomi.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Bofya ili kutazama kwenye YouTube"
+    },
+    "ko": {
+        "tx_01": "비전",
+        "tx_02": "풍경로의 전환 비전.",
+        "tx_03": "2026년 2월 21일",
+        "tx_04": "YouTube에서 시청하려면 클릭하세요."
+    },
+    "kg": {
+        "tx_01": "Көрүнүш",
+        "tx_02": "Кенномикаке өтүү көрүнүшү.",
+        "tx_03": "21 февраль 2026",
+        "tx_04": "YouTube'да көрүү үчүн чыкылдатыңыз"
+    },
+    "la": {
+        "tx_01": "ວິໄສທັດ",
+        "tx_02": "ວິໄສທັດຂອງການປ່ຽນແປງໄປສູ່ ຮວມເສດຖະ.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "ກົດເບິ່ງໃນ YouTube"
+    },
+    "lv": {
+        "tx_01": "Vīzija",
+        "tx_02": "Vīzija par pāreju uz Bagātnomika.",
+        "tx_03": "2026. gada 21. februāris",
+        "tx_04": "Noklikšķiniet, lai skatītos pakalpojumā YouTube"
+    },
+    "lt": {
+        "tx_01": "Vizija",
+        "tx_02": "Perėjimo prie Gausonomika vizija.",
+        "tx_03": "2026 m. vasario 21 d.",
+        "tx_04": "Spustelėkite, jei norite žiūrėti „YouTube“."
+    },
+    "hu": {
+        "tx_01": "Jövőkép",
+        "tx_02": "Az Bőséggazda-re való átmenet jövőképe.",
+        "tx_03": "2026. február 21.",
+        "tx_04": "Kattintson a YouTube-on való megtekintéshez"
+    },
+    "mg": {
+        "tx_01": "Vision",
+        "tx_02": "Vision ny fifindrana mankany amin'ny Hafarekarena.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Tsindrio raha hijery amin'ny YouTube"
+    },
+    "ma": {
+        "tx_01": "दृष्टी [नाम] विपुलशास्त्र च्या संक्रमणाची दृष्टी.",
+        "tx_02": "21 फेब्रुवारी 2026",
+        "tx_03": "YouTube वर पाहण्यासाठी क्लिक करा",
+        "tx_04": "YouTube वर पाहण्यासाठी क्लिक करा"
+    },
+    "ml": {
+        "tx_01": "Visi",
+        "tx_02": "Visi peralihan kepada Limpahnomi.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Klik untuk menonton di YouTube"
+    },
+    "mo": {
+        "tx_01": "Алсын хараа",
+        "tx_02": "Элбэгзасаг руу шилжих алсын хараа.",
+        "tx_03": "2026 оны 2-р сарын 21",
+        "tx_04": "YouTube дээр дарж үзнэ үү"
+    },
+    "bu": {
+        "tx_01": "Vision",
+        "tx_02": "ကြွယ်စီးပွား သို့ ကူးပြောင်းခြင်း၏ အမြင်။",
+        "tx_03": "21 ဖေဖော်ဝါရီ 2026",
+        "tx_04": "YouTube တွင် ကြည့်ရှုရန် နှိပ်ပါ။"
+    },
+    "ne": {
+        "tx_01": "Visie",
+        "tx_02": "Visie op de transitie naar de Abundomie.",
+        "tx_03": "21 februari 2026",
+        "tx_04": "Klik om te bekijken op YouTube"
+    },
+    "np": {
+        "tx_01": "दृष्टि",
+        "tx_02": "प्रचुरशास्त्र मा संक्रमणको दृष्टि।",
+        "tx_03": "21 फेब्रुअरी 2026",
+        "tx_04": "YouTube मा हेर्न क्लिक गर्नुहोस्"
+    },
+    "no": {
+        "tx_01": "Visjon",
+        "tx_02": "Visjon av overgangen til Overflomi.",
+        "tx_03": "21. februar 2026",
+        "tx_04": "Klikk for å se på YouTube"
+    },
+    "or": {
+        "tx_01": "Mul'ata",
+        "tx_02": "Mul'ata ce'umsa gara Badhaadagdee.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "YouTube irratti daawwachuuf cuqaasaa"
+    },
+    "pa": {
+        "tx_01": "لید",
+        "tx_02": "پریمانیساد ته د لیږد لید.",
+        "tx_03": "21 فبروري 2026",
+        "tx_04": "په یوټیوب کې د لیدو لپاره کلیک وکړئ"
+    },
+    "pe": {
+        "tx_01": "چشم انداز",
+        "tx_02": "چشم انداز انتقال به فراوانید.",
+        "tx_03": "21 فوریه 2026",
+        "tx_04": "برای تماشا در YouTube کلیک کنید"
+    },
+    "po": {
+        "tx_01": "Wizja",
+        "tx_02": "Wizja przejścia do Obfitonomia.",
+        "tx_03": "21 lutego 2026",
+        "tx_04": "Kliknij, aby obejrzeć na YouTube"
+    },
+    "ps": {
+        "tx_01": "وژن",
+        "tx_02": "اِقتصادیَت ول تبدیلی دا وژن۔",
+        "tx_03": "21 فروری 2026",
+        "tx_04": "یوٹیوب تے دیکھਣ لئی کلک کرو"
+    },
+    "pt": {
+        "tx_01": "Visão",
+        "tx_02": "Visão da transição para Abundomia.",
+        "tx_03": "21 de fevereiro de 2026",
+        "tx_04": "Clique para assistir no YouTube"
+    },
+    "pu": {
+        "tx_01": "ਵਿਜ਼ਨ",
+        "tx_02": "ਆਰਥਿਕ-ਭਰਪੂਰਤਾ ਵੱਲ ਤਬਦੀਲੀ ਦਾ ਵਿਜ਼ਨ।",
+        "tx_03": "21 ਫਰਵਰੀ 2026",
+        "tx_04": "ਯੂਟਿਊਬ 'ਤੇ ਦੇਖਣ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+    },
+    "ro": {
+        "tx_01": "Viziunea",
+        "tx_02": "Viziunea tranziției la Abundonomia.",
+        "tx_03": "21 februarie 2026",
+        "tx_04": "Faceți clic pentru a viziona pe YouTube"
+    },
+    "ru": {
+        "tx_01": "Видение",
+        "tx_02": "Видение перехода к Изобиломика.",
+        "tx_03": "21 февраля 2026 г.",
+        "tx_04": "Нажмите, чтобы посмотреть на YouTube"
+    },
+    "zi": {
+        "tx_01": "Pono",
+        "tx_02": "Pono ya phetogo go ya go Letlotlonomi.",
+        "tx_03": "21 Tlhakole 2026",
+        "tx_04": "Tobetsa go lebelela mo YouTube"
+    },
+    "al": {
+        "tx_01": "Vizioni",
+        "tx_02": "Vizioni i kalimit në Bollëkonomi.",
+        "tx_03": "21 shkurt 2026",
+        "tx_04": "Kliko për të parë në YouTube"
+    },
+    "sl": {
+        "tx_01": "Vizija",
+        "tx_02": "Vizija prehoda na Izonomija.",
+        "tx_03": "21. februar 2026",
+        "tx_04": "Kliknite za ogled na YouTubu"
+    },
+    "sk": {
+        "tx_01": "Vízia",
+        "tx_02": "Vízia prechodu na Hojnomika.",
+        "tx_03": "21. február 2026",
+        "tx_04": "Kliknutím spustíte sledovanie na YouTube"
+    },
+    "so": {
+        "tx_01": "Aragtida",
+        "tx_02": "Aragtida u gudubka Barwaaqalaha.",
+        "tx_03": "21 Feb 2026",
+        "tx_04": "Guji si aad u daawato YouTube"
+    },
+    "fi": {
+        "tx_01": "Visio",
+        "tx_02": "Visio siirtymisestä Runstalous:ään.",
+        "tx_03": "21. helmikuuta 2026",
+        "tx_04": "Katso YouTubesta napsauttamalla"
+    },
+    "sw": {
+        "tx_01": "Vision",
+        "tx_02": "Vision av övergången till Överflomi.",
+        "tx_03": "21 februari 2026",
+        "tx_04": "Klicka för att titta på YouTube"
+    },
+    "ta": {
+        "tx_01": "பார்வை",
+        "tx_02": "வளத்தரம்க்கான மாற்றத்தின் பார்வை.",
+        "tx_03": "21 பிப்ரவரி 2026",
+        "tx_04": "YouTube இல் பார்க்க கிளிக் செய்யவும்"
+    },
+    "th": {
+        "tx_01": "วิสัยทัศน์",
+        "tx_02": "วิสัยทัศน์ของการเปลี่ยนไปใช้ มั่งเศรษฐា",
+        "tx_03": "21 ก.พ. 2569",
+        "tx_04": "คลิกดูบน YouTube"
+    },
+    "vi": {
+        "tx_01": "Tầm nhìn",
+        "tx_02": "Tầm nhìn về quá trình chuyển đổi sang Doi-kinhte.",
+        "tx_03": "21/02/2026",
+        "tx_04": "Bấm để xem trên YouTube"
+    },
+    "tu": {
+        "tx_01": "Vizyon",
+        "tx_02": "Bolnomi'ye geçiş vizyonu.",
+        "tx_03": "21 Şubat 2026",
+        "tx_04": "YouTube'da izlemek için tıklayın"
+    },
+    "ur": {
+        "tx_01": "وژن",
+        "tx_02": "فرامائیش میں منتقلی کا وژن۔",
+        "tx_03": "21 فروری 2026",
+        "tx_04": "یوٹیوب پر دیکھنے کے لیے کلک کریں۔"
+    },
+    "yo": {
+        "tx_01": "Iran",
+        "tx_02": "Iran ti iyipada si Ọpọlowo.",
+        "tx_03": "21 Kínní 2026",
+        "tx_04": "Tẹ lati wo lori YouTube"
+    }
+}

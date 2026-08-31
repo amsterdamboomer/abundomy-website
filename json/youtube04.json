@@ -1,0 +1,428 @@
+{
+    "ah": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "ተርፎኖሚ፣ 1CoinH፣ አፍሪካ እና ሽግግር።",
+        "tx_03": "8 ኤፕሪል 2025",
+        "tx_04": "በዩቲዩብ ለመመልከት ጠቅ ያድርጉ"
+    },
+    "ar": {
+        "tx_01": "تيون في الاقتصاد 2.0",
+        "tx_02": "وفراقتصاد، 1CoinH، أفريقيا والمرحلة الانتقالية.",
+        "tx_03": "8 أبريل 2025",
+        "tx_04": "انقر للمشاهدة على YouTube"
+    },
+    "am": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Արատնտես, 1CoinH, Աֆրիկան և անցումը:",
+        "tx_03": "2025 թվականի ապրիլի 8",
+        "tx_04": "Սեղմեք YouTube-ում դիտելու համար"
+    },
+    "az": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Boliqtisad, 1CoinH, Afrika və keçid.",
+        "tx_03": "8 aprel 2025",
+        "tx_04": "YouTube-da baxmaq üçün klikləyin"
+    },
+    "by": {
+        "tx_01": "Teun у Economy 2.0",
+        "tx_02": "Дабраноміка, 1CoinH, Афрыка і пераход.",
+        "tx_03": "8 красавіка 2025 г.",
+        "tx_04": "Націсніце, каб паглядзець на YouTube"
+    },
+    "be": {
+        "tx_01": "ইকোনমি 2.0 এ টেউন",
+        "tx_02": "প্রচুরনীতি, 1CoinH, আফ্রিকা এবং ট্রানজিশন।",
+        "tx_03": "8 এপ্রিল 2025",
+        "tx_04": "YouTube-এ দেখতে ক্লিক করুন"
+    },
+    "bo": {
+        "tx_01": "Teun u Economy 2.0",
+        "tx_02": "Izonomija, 1CoinH, Afrika i tranzicija.",
+        "tx_03": "8. april 2025.",
+        "tx_04": "Kliknite za gledanje na YouTubeu"
+    },
+    "bg": {
+        "tx_01": "Teun в Economy 2.0",
+        "tx_02": "Изономика, 1CoinH, Африка и преходът.",
+        "tx_03": "8 април 2025 г.",
+        "tx_04": "Кликнете, за да гледате в YouTube"
+    },
+    "ca": {
+        "tx_01": "Teun 的經濟 2.0",
+        "tx_02": "豐盛濟、1CoinH、非洲和轉型。",
+        "tx_03": "2025 年 4 月 8 日",
+        "tx_04": "點擊在 YouTube 上觀看"
+    },
+    "ch": {
+        "tx_01": "Teun 的经济 2.0",
+        "tx_02": "丰盛济、1CoinH、非洲和转型。",
+        "tx_03": "2025 年 4 月 8 日",
+        "tx_04": "点击在 YouTube 上观看"
+    },
+    "cz": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Hojnomika, 1CoinH, Afrika a přechod.",
+        "tx_03": "8. dubna 2025",
+        "tx_04": "Kliknutím přehrajete na YouTube"
+    },
+    "se": {
+        "tx_01": "Теун у економији 2.0",
+        "tx_02": "КСИЗ_Б_КСИЗ, 1ЦоинХ, Африка и транзиција.",
+        "tx_03": "8. април 2025",
+        "tx_04": "Кликните да бисте гледали на ИоуТубе-у"
+    },
+    "da": {
+        "tx_01": "Teun hos Economy 2.0",
+        "tx_02": "Overflomi, 1CoinH, Afrika og overgangen.",
+        "tx_03": "8. april 2025",
+        "tx_04": "Klik for at se på YouTube"
+    },
+    "de": {
+        "tx_01": "Teun bei Economy 2.0",
+        "tx_02": "Abundomie, 1CoinH, Afrika und der Übergang.",
+        "tx_03": "8. April 2025",
+        "tx_04": "Klicken Sie hier, um es auf YouTube anzusehen"
+    },
+    "en": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Abundomy, 1CoinH, Africa and the transition.",
+        "tx_03": "8 April 2025",
+        "tx_04": "Click to watch on YouTube"
+    },
+    "es": {
+        "tx_01": "Teun en Economía 2.0",
+        "tx_02": "Abundomia, 1CoinH, África y la transición.",
+        "tx_03": "8 de abril de 2025",
+        "tx_04": "Haga clic para verlo en YouTube"
+    },
+    "fp": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Kasagonomiya, 1CoinH, Africa at ang paglipat.",
+        "tx_03": "8 Abril 2025",
+        "tx_04": "I-click para manood sa YouTube"
+    },
+    "fr": {
+        "tx_01": "Teun à l'Économie 2.0",
+        "tx_02": "Abondomie, 1CoinH, L'Afrique et la transition.",
+        "tx_03": "8 avril 2025",
+        "tx_04": "Cliquez pour regarder sur YouTube"
+    },
+    "gu": {
+        "tx_01": "ઇકોનોમી ૨.૦ ખાતે ટ્યુન",
+        "tx_02": "અર્થવિપુલતા, ૧કોઇનએચ (1CoinH), આફ્રિકા અને પરિવર્તન.",
+        "tx_03": "૮ એપ્રિલ ૨૦૨૫",
+        "tx_04": "યૂટ્યૂબ પર જોવા માટે ક્લિક કરો"
+    },
+    "ir": {
+        "tx_01": "Teun ag Geilleagar 2.0",
+        "tx_02": "Flúirseagar, 1CoinH, an Afraic agus an t-aistriú.",
+        "tx_03": "8 Aibreán 2025",
+        "tx_04": "Cliceáil chun féachaint ar YouTube"
+    },
+    "gr": {
+        "tx_01": "Teun στο Economy 2.0",
+        "tx_02": "Αφθονομία, 1CoinH, Αφρική και η μετάβαση.",
+        "tx_03": "8 Απριλίου 2025",
+        "tx_04": "Κάντε κλικ για παρακολούθηση στο YouTube"
+    },
+    "ha": {
+        "tx_01": "Teun a Tattalin Arziki 2.0",
+        "tx_02": "Yalwan-Arziki, 1CoinH, Afirka da canji.",
+        "tx_03": "8 Afrilu 2025",
+        "tx_04": "Danna don kallo akan YouTube"
+    },
+    "he": {
+        "tx_01": "Teun ב-Economy 2.0",
+        "tx_02": "שפעכלכלה, 1CoinH, אפריקה והמעבר.",
+        "tx_03": "8 באפריל 2025",
+        "tx_04": "לחץ לצפייה ב-YouTube"
+    },
+    "hi": {
+        "tx_01": "अर्थव्यवस्था 2.0 पर ट्यून",
+        "tx_02": "प्रचुरवार्ता, 1CoinH, अफ्रीका और संक्रमण।",
+        "tx_03": "8 अप्रैल 2025",
+        "tx_04": "यूट्यूब पर देखने के लिए क्लिक करें"
+    },
+    "cr": {
+        "tx_01": "Teun u Economy 2.0",
+        "tx_02": "Izonomija, 1CoinH, Afrika i tranzicija.",
+        "tx_03": "8. travnja 2025.",
+        "tx_04": "Kliknite za gledanje na YouTubeu"
+    },
+    "ig": {
+        "tx_01": "Teun na Economy 2.0",
+        "tx_02": "Ụbanomiya, 1CoinH, Africa na mgbanwe.",
+        "tx_03": "8 Eprel 2025",
+        "tx_04": "Pịa ka ikiri na YouTube"
+    },
+    "in": {
+        "tx_01": "Teun di Ekonomi 2.0",
+        "tx_02": "Limpahnomi, 1CoinH, Afrika dan transisi.",
+        "tx_03": "8 April 2025",
+        "tx_04": "Klik untuk menonton di YouTube"
+    },
+    "ic": {
+        "tx_01": "Teun hjá Economy 2.0",
+        "tx_02": "Snægtarhag, 1CoinH, Afríka og umskiptin.",
+        "tx_03": "8. apríl 2025",
+        "tx_04": "Smelltu til að horfa á YouTube"
+    },
+    "it": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Abbondomia, 1CoinH, L'Africa e la transizione.",
+        "tx_03": "8 aprile 2025",
+        "tx_04": "Clicca per guardare su YouTube"
+    },
+    "ja": {
+        "tx_01": "エコノミー 2.0",
+        "tx_02": "豊経済、1CoinH、アフリカとその移行における Teun。",
+        "tx_03": "2025 年 4 月 8 日",
+        "tx_04": "クリックして YouTube で視聴"
+    },
+    "ka": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Молноміка, 1CoinH, Африка және өтпелі кезең.",
+        "tx_03": "8 сәуір 2025 жыл",
+        "tx_04": "YouTube сайтында көру үшін басыңыз"
+    },
+    "kh": {
+        "tx_01": "Teun នៅ Economy 2.0",
+        "tx_02": "ផលសេដ្ឋ, 1CoinH, អាហ្រ្វិក និងការផ្លាស់ប្តូរ។",
+        "tx_03": "8 មេសា 2025",
+        "tx_04": "ចុចមើលលើ YouTube"
+    },
+    "ki": {
+        "tx_01": "Teun on Economy 2.0",
+        "tx_02": "Abundomy, 1CoinH, Afrika ninzibacyuho.",
+        "tx_03": "8 Mata 2025",
+        "tx_04": "Kanda urebe kuri YouTube"
+    },
+    "sh": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Ukwachumi, 1CoinH, Afrika na mpito.",
+        "tx_03": "Tarehe 8 Aprili 2025",
+        "tx_04": "Bofya ili kutazama kwenye YouTube"
+    },
+    "co": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Bimvwanomi, 1CoinH, Afrika na mpito.",
+        "tx_03": "Tarehe 8 Aprili 2025",
+        "tx_04": "Bofya ili kutazama kwenye YouTube"
+    },
+    "ko": {
+        "tx_01": "Economy 2.0",
+        "tx_02": "풍경, 1CoinH, 아프리카 및 전환의 Teun.",
+        "tx_03": "2025년 4월 8일",
+        "tx_04": "YouTube에서 보려면 클릭하세요."
+    },
+    "kg": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Кенномика, 1CoinH, Africa жана өткөөл.",
+        "tx_03": "8-апрель 2025-жыл",
+        "tx_04": "YouTube'да көрүү үчүн чыкылдатыңыз"
+    },
+    "la": {
+        "tx_01": "Teun ຢູ່ທີ່ເສດຖະກິດ 2.0",
+        "tx_02": "ຮວມເສດຖະ, 1CoinH, ອາຟຣິກາແລະການຫັນປ່ຽນ.",
+        "tx_03": "8 ເມສາ 2025",
+        "tx_04": "ກົດເບິ່ງໃນ YouTube"
+    },
+    "lv": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Bagātnomika, 1CoinH, Āfrika un pāreja.",
+        "tx_03": "2025. gada 8. aprīlis",
+        "tx_04": "Noklikšķiniet, lai skatītos pakalpojumā YouTube"
+    },
+    "lt": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Gausonomika, 1CoinH, Afrika ir perėjimas.",
+        "tx_03": "2025 m. balandžio 8 d.",
+        "tx_04": "Spustelėkite, jei norite žiūrėti „YouTube“."
+    },
+    "hu": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Bőséggazda, 1CoinH, Afrika és az átmenet.",
+        "tx_03": "2025. április 8.",
+        "tx_04": "Kattintson ide a YouTube-on való megtekintéshez"
+    },
+    "mg": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Hafarekarena, 1CoinH, Afrika ary ny tetezamita.",
+        "tx_03": "8 Aprily 2025",
+        "tx_04": "Tsindrio raha hijery amin'ny YouTube"
+    },
+    "ma": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "विपुलशास्त्र, 1CoinH, आफ्रिका आणि संक्रमण.",
+        "tx_03": "8 एप्रिल 2025",
+        "tx_04": "YouTube वर पाहण्यासाठी क्लिक करा"
+    },
+    "ml": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Limpahnomi, 1CoinH, Afrika dan peralihan.",
+        "tx_03": "8 April 2025",
+        "tx_04": "Klik untuk menonton di YouTube"
+    },
+    "mo": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Элбэгзасаг, 1CoinH, Африк ба шилжилтийн үе.",
+        "tx_03": "2025 оны 4-р сарын 8",
+        "tx_04": "YouTube дээр дарж үзнэ үү"
+    },
+    "bu": {
+        "tx_01": "Economy 2.0",
+        "tx_02": "ကြွယ်စီးပွား၊ 1CoinH၊ အာဖရိကနှင့် ကူးပြောင်းမှု။",
+        "tx_03": "8 ဧပြီလ 2025",
+        "tx_04": "YouTube တွင် ကြည့်ရှုရန် နှိပ်ပါ။"
+    },
+    "ne": {
+        "tx_01": "Teun bij Economy 2.0",
+        "tx_02": "Abundomie, 1CoinH, Afrika en de transitie.",
+        "tx_03": "8 april 2025",
+        "tx_04": "Klik om te bekijken op YouTube"
+    },
+    "np": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "प्रचुरशास्त्र, 1CoinH, अफ्रिका र संक्रमण।",
+        "tx_03": "८ अप्रिल २०२५",
+        "tx_04": "YouTube मा हेर्न क्लिक गर्नुहोस्"
+    },
+    "no": {
+        "tx_01": "Teun på Økonomi 2.0",
+        "tx_02": "Overflomi, 1CoinH, Afrika og overgangen.",
+        "tx_03": "8. april 2025",
+        "tx_04": "Klikk for å se på YouTube"
+    },
+    "or": {
+        "tx_01": "Teun at Diinagdee 2.0",
+        "tx_02": "Badhaadagdee, 1CoinH, Afrikaa fi ce'umsa.",
+        "tx_03": "8 Ebla 2025",
+        "tx_04": "YouTube irratti daawwachuuf cuqaasaa"
+    },
+    "pa": {
+        "tx_01": "Teun په اقتصاد 2.0",
+        "tx_02": "پریمانیساد، 1CoinH، افریقا او لیږد.",
+        "tx_03": "8 اپریل 2025",
+        "tx_04": "په یوټیوب کې د لیدو لپاره کلیک وکړئ"
+    },
+    "pe": {
+        "tx_01": "Teun در Economy 2.0",
+        "tx_02": "فراوانید، 1CoinH، آفریقا و گذار.",
+        "tx_03": "8 آوریل 2025",
+        "tx_04": "برای تماشا در YouTube کلیک کنید"
+    },
+    "po": {
+        "tx_01": "Teun w Economy 2.0",
+        "tx_02": "Obfitonomia, 1CoinH, Afryka i przejście.",
+        "tx_03": "8 kwietnia 2025",
+        "tx_04": "Kliknij, aby obejrzeć na YouTube"
+    },
+    "ps": {
+        "tx_01": "اکانومی 2.0 وچ ٹیون",
+        "tx_02": "اِقتصادیَت، 1CoinH، افریقہ تے تبدیلی۔",
+        "tx_03": "8 اپریل 2025",
+        "tx_04": "یوٹیوب تے دیکھਣ لئی کلک کرو"
+    },
+    "pt": {
+        "tx_01": "Teun na Economia 2.0",
+        "tx_02": "Abundomia, 1CoinH, África e a transição.",
+        "tx_03": "8 de abril de 2025",
+        "tx_04": "Clique para assistir no YouTube"
+    },
+    "pu": {
+        "tx_01": "ਇਕਾਨਮੀ 2.0 ਵਿਖੇ ਟਿਊਨ",
+        "tx_02": "ਆਰਥਿਕ-ਭਰਪੂਰਤਾ, 1CoinH, ਅਫ਼ਰੀਕਾ ਅਤੇ ਤਬਦੀਲੀ।",
+        "tx_03": "8 ਅਪ੍ਰੈਲ 2025",
+        "tx_04": "ਯੂਟਿਊਬ 'ਤੇ ਦੇਖਣ ਲਈ ਕਲਿੱਕ ਕਰੋ"
+    },
+    "ro": {
+        "tx_01": "Teun la Economy 2.0",
+        "tx_02": "Abundonomia, 1CoinH, Africa și tranziția.",
+        "tx_03": "8 aprilie 2025",
+        "tx_04": "Faceți clic pentru a viziona pe YouTube"
+    },
+    "ru": {
+        "tx_01": "Теун в Экономике 2.0",
+        "tx_02": "Изобиломика, 1CoinH, Африка и переход.",
+        "tx_03": "8 апреля 2025 г.",
+        "tx_04": "Нажмите, чтобы посмотреть на YouTube"
+    },
+    "zi": {
+        "tx_01": "Teun kwa Ikonoming 2.0",
+        "tx_02": "Letlotlonomi, 1CoinH, Aforika le phetogo.",
+        "tx_03": "8 Moranang 2025",
+        "tx_04": "Tobetsa go lebelela mo YouTube"
+    },
+    "al": {
+        "tx_01": "Teun në Economy 2.0",
+        "tx_02": "Bollëkonomi, 1CoinH, Afrika dhe tranzicioni.",
+        "tx_03": "8 prill 2025",
+        "tx_04": "Kliko për të parë në YouTube"
+    },
+    "sl": {
+        "tx_01": "Teun pri Economy 2.0",
+        "tx_02": "Izonomija, 1CoinH, Afrika in prehod.",
+        "tx_03": "8. april 2025",
+        "tx_04": "Kliknite za ogled na YouTubu"
+    },
+    "sk": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Hojnomika, 1CoinH, Afrika a prechod.",
+        "tx_03": "8. apríla 2025",
+        "tx_04": "Kliknutím spustíte sledovanie na YouTube"
+    },
+    "so": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Barwaaqalaha, 1CoinH, Afrika iyo kala guurka.",
+        "tx_03": "8 Abriil 2025",
+        "tx_04": "Guji si aad u daawato YouTube"
+    },
+    "fi": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "Runstalous, 1CoinH, Afrikka ja siirtymävaihe.",
+        "tx_03": "8. huhtikuuta 2025",
+        "tx_04": "Katso YouTubesta klikkaamalla"
+    },
+    "sw": {
+        "tx_01": "Teun på Ekonomi 2.0",
+        "tx_02": "Överflomi, 1CoinH, Afrika och övergången.",
+        "tx_03": "8 april 2025",
+        "tx_04": "Klicka för att titta på YouTube"
+    },
+    "ta": {
+        "tx_01": "டியூன் எகானமி 2.0",
+        "tx_02": "வளத்தரம், 1CoinH, ஆப்பிரிக்கா மற்றும் மாற்றம்.",
+        "tx_03": "8 ஏப்ரல் 2025",
+        "tx_04": "YouTube இல் பார்க்க கிளிக் செய்யவும்"
+    },
+    "th": {
+        "tx_01": "Teun ที่ Economy 2.0",
+        "tx_02": "มั่งเศรษฐា, 1CoinH, แอฟริกาและการเปลี่ยนแปลง",
+        "tx_03": "8 เมษายน 2568",
+        "tx_04": "คลิกดูบน YouTube"
+    },
+    "vi": {
+        "tx_01": "Teun tại Nền kinh tế 2.0",
+        "tx_02": "Doi-kinhte, 1CoinH, Châu Phi và quá trình chuyển đổi.",
+        "tx_03": "8 tháng 4 năm 2025",
+        "tx_04": "Bấm để xem trên YouTube"
+    },
+    "tu": {
+        "tx_01": "Ekonomi 2.0'da Teun",
+        "tx_02": "Bolnomi, 1CoinH, Afrika ve geçiş.",
+        "tx_03": "8 Nisan 2025",
+        "tx_04": "YouTube'da izlemek için tıklayın"
+    },
+    "ur": {
+        "tx_01": "Teun at Economy 2.0",
+        "tx_02": "فرامائیش, 1CoinH, Africa and the transition.",
+        "tx_03": "8 اپریل 2025",
+        "tx_04": "یوٹیوب پر دیکھنے کے لیے کلک کریں۔"
+    },
+    "yo": {
+        "tx_01": "Teun ni Aje 2.0",
+        "tx_02": "Ọpọlowo, 1CoinH, Afirika ati iyipada.",
+        "tx_03": "8 Kẹrin 2025",
+        "tx_04": "Tẹ lati wo lori YouTube"
+    }
+}
